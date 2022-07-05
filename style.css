@@ -1,0 +1,27 @@
+body {
+  font-family: "Arima", cursive;
+  background-color: #2f4461;
+}
+
+.first-section {
+  display: flex;
+}
+.logo img {
+  display: inline;
+  margin: 5px;
+  padding: 10px;
+}
+li {
+  display: inline;
+  margin: 20px;
+  padding: 20px;
+}
+ul li {
+  margin-top: 20px;
+}
+.list {
+  margin-left: 200px;
+}
+.list li {
+  color: white;
+}
