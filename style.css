@@ -1,6 +1,10 @@
 body {
   font-family: "Arima", cursive;
   background-color: #2f4461;
+  color: white;
+}
+h1 {
+  font-size: 50px;
 }
 
 .first-section {
@@ -24,4 +28,40 @@ ul li {
 }
 .list li {
   color: white;
+}
+.home {
+  display: flex;
+}
+.half-width {
+  width: 40%;
+  margin: 5%;
+}
+p {
+  text-align: justify;
+}
+span {
+  color: #00cdac;
+}
+.button {
+  padding: 10px;
+  margin: 20px;
+  width: 200px;
+  background-color: #ffaf7b;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 3px;
+}
+.width {
+  width: 20%;
+  margin: 8%;
+  padding: 10px;
+}
+.you {
+  box-shadow: 0 0 10px 5px black;
+  margin: 70px;
+  height: 330px;
+  border-radius: 15px;
+}
+.text-style {
+  text-align: center;
+  margin: 10px;
 }
