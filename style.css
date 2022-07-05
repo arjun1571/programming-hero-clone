@@ -65,3 +65,28 @@ span {
   text-align: center;
   margin: 10px;
 }
+.rewords {
+  box-shadow: 0 0 10px 5px black;
+  padding: 20px;
+  border-radius: 20px;
+  height: 1000px;
+}
+.card {
+  box-shadow: 0 0 10px 5px black;
+  height: 300px;
+  padding: 20px;
+  border-radius: 15px;
+}
+.card2 {
+  box-shadow: 0 0 10px 5px black;
+  height: 635px;
+  padding: 20px;
+  width: 90%;
+  border-radius: 15px;
+}
+.card2 img {
+  width: 100%;
+}
+.text-style {
+  text-align: center;
+}
